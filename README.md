@@ -19,6 +19,6 @@ markdown
 - 📧 dchiquito@ucol.mx
 
 
-Protecto Integrador
+Proyecto Integrador
 **Dana Paola**
  ([PI](https://github.com/DanitaP24/Proyecto-Integrador/blob/a0baed3dd95b7b57d4aec4a989e846f9a8cc8f71/README.md))
