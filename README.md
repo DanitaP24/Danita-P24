@@ -1,7 +1,5 @@
 # DanitaP24
-Primer .Readme
 
-markdown
 # ¡Hola! Soy Dana Paola Chiquito Gallegos 👋
 
 ## Sobre mí
